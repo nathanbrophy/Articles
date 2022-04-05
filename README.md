@@ -1,2 +1,6 @@
 # Articles
-Articles is the data repository for published articles I have authored
+
+## Links 
+
+- [LinkedIn](https://linkedin.com/in/nathan-brophy-905a16171)
+- [medium](https://medium.com/@nathanpbrophy)
