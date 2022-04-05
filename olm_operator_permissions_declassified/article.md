@@ -100,8 +100,9 @@ Special thanks to contributions made from my colleague, Chris Johnson, for initi
 Special thanks to my colleagues, Michele Chilanti, and, Denilson Nastacio, for providing suggestions and reviews to the article content.
 
 ## References and Useful Links
-https://kubernetes.io/docs/tutorials/kubernetes-basics/
-https://kubernetes.io/docs/reference/access-authn-authz/rbac/
-https://operatorframework.io/
-https://olm.operatorframework.io/docs/tasks/creating-operator-bundle/
-https://olm.operatorframework.io/docs/concepts/crds/clusterserviceversion/
+
+- https://kubernetes.io/docs/tutorials/kubernetes-basics/
+- https://kubernetes.io/docs/reference/access-authn-authz/rbac/
+- https://operatorframework.io/
+- https://olm.operatorframework.io/docs/tasks/creating-operator-bundle/
+- https://olm.operatorframework.io/docs/concepts/crds/clusterserviceversion/
